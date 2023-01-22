@@ -1900,7 +1900,7 @@
       "level": 7,
       "pasangan": "",
       "pc": 0,
-      "exp": 7493,
+      "exp": 7722,
       "coin": 0,
       "atm": 0,
       "limit": 100,
@@ -2283,10 +2283,10 @@
       "laper": 100,
       "tprem": 0,
       "stamina": 100,
-      "level": 3,
+      "level": 4,
       "pasangan": "",
       "pc": 0,
-      "exp": 1273,
+      "exp": 1660,
       "coin": 0,
       "atm": 0,
       "limit": 100,
@@ -3774,10 +3774,10 @@
   },
   "stats": {
     "general-menu.js": {
-      "total": 50,
-      "success": 48,
-      "last": 1674359250790,
-      "lastSuccess": 1674359250790
+      "total": 51,
+      "success": 49,
+      "last": 1674361790437,
+      "lastSuccess": 1674361790437
     },
     "general-menu2.js": {
       "total": 21,
@@ -3822,10 +3822,10 @@
       "lastSuccess": 1673800224454
     },
     "_OpenAi.js": {
-      "total": 89,
-      "success": 82,
-      "last": 1674358372618,
-      "lastSuccess": 1674358372618
+      "total": 103,
+      "success": 96,
+      "last": 1674361800896,
+      "lastSuccess": 1674361800896
     },
     "asu.js": {
       "total": 2,
@@ -4164,16 +4164,22 @@
       "lastSuccess": 1674358771638
     },
     "owner-exec2.js": {
-      "total": 22,
-      "success": 22,
-      "last": 1674359367422,
-      "lastSuccess": 1674359367422
+      "total": 29,
+      "success": 29,
+      "last": 1674361899618,
+      "lastSuccess": 1674361899618
     },
     "internet-shopee.js": {
       "total": 2,
       "success": 0,
       "last": 1674358803904,
       "lastSuccess": 0
+    },
+    "owner-exec.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1674359742512,
+      "lastSuccess": 1674359742512
     }
   },
   "msgs": {},
