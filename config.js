@@ -24,7 +24,7 @@ global.instagram = 'https://instagram.com/'
 /*global wm*/
 global.lolkey = 'SGWN'
 global.zenzkey = 'BagasPrdn'
-global.aikey = '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'
+global.aikey = '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'
 global.wm = '© —͟͟͞͞𖣘𝑰𝑲𝒀𝒀𝑶𝑭𝑪₴'
 global.watermark = wm
 global.wm2 = '⫹⫺ ⦕𝙄𝙆𝙔𝙔𝘽𝙊𝙏⦖'

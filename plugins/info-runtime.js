@@ -24,5 +24,5 @@ function clockString(ms) {
     let minutes = Math.floor((hoursms) / (60 * 1000));
     let minutesms = ms % (60 * 1000);
     let sec = Math.floor((minutesms) / (1000));
-    return days + " D " + hours + " H " + minutes + " M " + sec + " S ";
+    return days + " H " + hours + " J " + minutes + " M " + sec + " D ";
 }

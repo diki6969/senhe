@@ -16,6 +16,6 @@ let handler = async (m, { conn}) => {
 }
 handler.help = ['speedtest']
 handler.tags = ['info']
-handler.command = /^(speedtest|ookla)$/i
+handler.command = /^(speedtest|ookla|speed|ping)$/i
 
 module.exports = handler

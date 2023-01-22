@@ -4,7 +4,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 
   if (!args[0]) throw `Pengunaan:\n${usedPrefix + command} <url>\n\nContoh:\n\n${usedPrefix + command} stikerinbot`
   if (args[0].startsWith('http') || args[0].startsWith('@')) throw `username salah`
-
+ m.reply(wait)
   igstory(args[0]).then(async res => {
     let igs = JSON.stringify(res)
     let json = JSON.parse(igs)
