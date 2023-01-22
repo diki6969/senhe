@@ -2286,7 +2286,7 @@
       "level": 4,
       "pasangan": "",
       "pc": 0,
-      "exp": 1660,
+      "exp": 1740,
       "coin": 0,
       "atm": 0,
       "limit": 100,
@@ -2425,7 +2425,7 @@
       "premiumTime": 0,
       "job": "Pengangguran",
       "lbars": "[▒▒▒▒▒▒▒▒▒]",
-      "role": "Warrior V",
+      "role": "Warrior IV",
       "autolevelup": true,
       "lastIstigfar": 0,
       "glimit": 100,
@@ -4164,10 +4164,10 @@
       "lastSuccess": 1674358771638
     },
     "owner-exec2.js": {
-      "total": 29,
-      "success": 29,
-      "last": 1674361899618,
-      "lastSuccess": 1674361899618
+      "total": 32,
+      "success": 32,
+      "last": 1674361998933,
+      "lastSuccess": 1674361998933
     },
     "internet-shopee.js": {
       "total": 2,
